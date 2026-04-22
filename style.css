@@ -1,12 +1,9 @@
 body {
-  padding-top: 70px; /* biar gak ketutup navbar */
+  padding-top: 70px;
 }
-
 section {
-  scroll-margin-top: 80px; /* biar pas klik gak ketelen navbar */
+  scroll-margin-top: 80px;
 }
-
-/* optional biar home bener-bener center */
 #home .row {
   min-height: 80vh;
   display: flex;
